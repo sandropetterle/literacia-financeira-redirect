@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"c:/Users/sandr/OneDrive/Documents/Maya/Projects/Literacia FInanceira/NetlifyRedirect\" init)"
+    ]
+  }
+}
